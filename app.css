@@ -1,0 +1,46 @@
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #E68A0D;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 1.5rem;
+}
+
+#cover {
+	background-image: url("imgs/beyouCover.jfif");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+#title {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	padding-top: 35%;
+	font-family: 'Shadows Into Light Two', cursive;
+}
+#logoBeYou {
+	max-height: 50px;
+}
+
+body , html {
+	height: 100%;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
